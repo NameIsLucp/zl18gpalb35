@@ -6257,7 +6257,7 @@ function Neverlose_Main:Window(config)
             MainFrame.Visible = t
         end, {
             {
-                key = Enum.KeyCode.LeftControl,
+                key = Enum.KeyCode.Insert,
                 Toggled = true
             }
         })
@@ -6290,8 +6290,8 @@ function Neverlose_Main:Window(config)
         game.CoreGui:WaitForChild("Neverlose1").MainFrame.Visible = Get_Load
 
         Neverlose_Main:Notify({
-            Title = "Welcome",
-            Text = "Menu Key | LeftControl",
+            Title = "Hello user",
+            Text = "Menu Key | Insert",
             Time = 2
         })
 
