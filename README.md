@@ -5,4 +5,7 @@
                                                                                         
 I make NEVERLOSE for Roblox place Kay;'s CSGO Modded
 
+![image](https://github.com/user-attachments/assets/5e7d7cec-64ab-4449-9b7b-9673ded72ba3)
+
+
 
