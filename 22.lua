@@ -6189,8 +6189,8 @@ function Neverlose_Main:Window(config)
         local Sec1 = Configs:Section("Load Config")
         local Sec2 = Configs:Section("Create Config")
         local mmm = LuaSection:Tab("Settings")
-		local oth1 = mmm:Section("Keys")
-        local oth2 = mmm:Section("UI Color")
+		local oth1 = mmm:Section("Custom Menu")
+        local oth2 = mmm:Section("Keys")
         
         Sec2:TextBox("Config Name", function(t)
             Config_Name = t
